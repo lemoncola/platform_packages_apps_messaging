@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chips/chips.iml" filepath="$PROJECT_DIR$/chips/chips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorpicker/colorpicker.iml" filepath="$PROJECT_DIR$/colorpicker/colorpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/common/common.iml" filepath="$PROJECT_DIR$/ex/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/ex.iml" filepath="$PROJECT_DIR$/ex/ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/framesequence/framesequence.iml" filepath="$PROJECT_DIR$/ex/framesequence/framesequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoviewer/photoviewer.iml" filepath="$PROJECT_DIR$/photoviewer/photoviewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform_packages_apps_messaging.iml" filepath="$PROJECT_DIR$/platform_packages_apps_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vcard/vcard.iml" filepath="$PROJECT_DIR$/vcard/vcard.iml" />
+    </modules>
+  </component>
+</project>

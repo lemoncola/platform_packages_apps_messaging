@@ -1,0 +1,7 @@
+include ':app'
+include ':chips'
+include ':colorpicker'
+include ':photoviewer'
+include ':vcard'
+include ':ex:common'
+include ':ex:framesequence'
